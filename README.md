@@ -1,1 +1,1 @@
-REACT_APP_API_URL =https://ammarecipes.onrender.com
+https://foodierecipes-2.onrender.com
